@@ -1,0 +1,7 @@
+{
+  "name": "bezier-rider",
+  "private": true,
+  "scripts": {
+    "build": "powershell -NoProfile -ExecutionPolicy Bypass -File ./build.ps1"
+  }
+}
